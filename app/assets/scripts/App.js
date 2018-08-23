@@ -1,3 +1,57 @@
+import MobileMenu from './modules/MobileMenu';
+
+var mobileMenu = new MobileMenu();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+//Example code section 14
+
+
+
 var $ = require('jquery');
 //node.js way of importing javascript files (require)
 //var Person = require('./modules/Person');
@@ -22,3 +76,6 @@ jane.payTaxes();
 
 
 $('h1').remove();
+
+
+*/

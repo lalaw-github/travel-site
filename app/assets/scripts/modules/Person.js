@@ -21,6 +21,10 @@ function Person(fullName, color) {
 module.exports = Person;
 */
 
+
+//Example code section 14
+
+
 class Person {
 	
 	constructor(fullName, color) {

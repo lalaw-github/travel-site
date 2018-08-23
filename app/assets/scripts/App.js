@@ -1,10 +1,12 @@
 import MobileMenu from './modules/MobileMenu';
 import RevealOnScroll from './modules/RevealOnScroll';
 import StickyHeader from './modules/StickyHeader';
+import Modal from './modules/Modal';
 import $ from 'jquery';
 
 var mobileMenu = new MobileMenu();
 var stickyHeader = new StickyHeader();
+var modal = new Modal();
 
 //can use this to set different parameters for each instance. I haven't!
 new RevealOnScroll($('.testimonial'), '85%');

@@ -5,7 +5,9 @@ import $ from 'jquery';
 
 var mobileMenu = new MobileMenu();
 var stickyHeader = new StickyHeader();
-new RevealOnScroll($('.testimonial'), '60%');
+
+//can use this to set different parameters for each instance. I haven't!
+new RevealOnScroll($('.testimonial'), '85%');
 new RevealOnScroll($('.feature-item'), '85%');
 
 
